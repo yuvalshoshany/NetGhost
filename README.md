@@ -1,5 +1,3 @@
-Got it! Here's a clean **README.md** content in Markdown format with **only instructions and descriptions**, no code blocks:
-
 ---
 
 # ShadowPcap
