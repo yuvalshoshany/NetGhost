@@ -48,6 +48,7 @@ def extract_ips(pcap_path):
                 continue
     return sorted(ips)
 
+
 if __name__ == "__main__":
     if len(sys.argv) != 2:
         print("Usage: python extract_ips_dpkt.py <pcap-file>")
